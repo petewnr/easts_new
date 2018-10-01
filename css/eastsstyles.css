@@ -71,6 +71,12 @@ html
 	box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); 
 }
 
+/*spacing*/
+.pushdownbottom
+{
+	margin-bottom: 1%;
+}
+
 /* branding */
 .eastslogo-nav
 {
