@@ -1,0 +1,91 @@
+/*
+	copied from bootstrap pricing card tempate
+	
+	core colours used
+	grey 555657 85:86:87
+	yellow F5D130 245:209:48
+	orange DA6419 218:100:25
+	white FFFFFF 255:255:255
+	almost black 191919 25:25:25
+*/
+
+html 
+{
+  font-size: 14px;
+}
+
+@media (min-width: 768px) 
+{
+	html 
+	{
+    	font-size: 16px;
+  	}
+  	
+}
+
+.main-content-entry
+{
+	margin-top: 5%;
+}
+
+.main-content-pages
+{
+	margin-top: 14%;
+}
+
+@media (min-width: 500px)
+{
+	.main-content-pages
+	{
+		margin-top: 8%;
+	}
+}
+
+.content-block
+{
+	margin-top: 2%;	
+}
+
+.pricing-header 
+{
+	max-width: 700px;
+}
+
+.card 
+{
+	margin-top: 2%;
+}
+
+.border-top 
+{ 
+	border-top: 1px solid #e5e5e5; 
+}
+
+.border-bottom 
+{ 
+	border-bottom: 1px solid #e5e5e5; 
+}
+
+.box-shadow 
+{ 
+	box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); 
+}
+
+/* branding */
+.eastslogo-nav
+{
+	margin-right: 5px;
+}
+
+/* colouring */
+
+.easts-button
+{
+	background-color: #DA6419;
+	color: #FFFFFF;
+}
+
+.section-heading
+{
+	color: #555657;
+}
